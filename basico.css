@@ -1,0 +1,59 @@
+h1 {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 18pt;
+}
+
+h3 {
+    font-size: 14pt;
+}
+
+body {
+    background-color: cyan;
+    color: #FFF;
+}
+
+h1, h2, h3 {
+    color: #FF0000;
+}
+
+em {
+    color: cyan;
+}
+
+.fundo {
+    background-color: rgb(233, 233, 54);
+    color: black;
+}
+
+.fundo em {
+    color: blueviolet;
+}
+
+.primeiro-paragrafo {
+    color: green;
+}
+
+table {
+    width: 350px;
+    border-collapse: collapse;
+    color: black;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.celula-meio {
+    color: red;
+    background-color: yellow;
+}
+
+main {
+    width: 500px;
+    margin: auto;
+}

@@ -1,0 +1,30 @@
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: rgb(148, 69, 69);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    background-color: aliceblue;
+    color: rgb(255, 0, 212);
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+select {
+    background-color: rgb(12, 88, 19);
+    color: #FFF;
+}
+
+body {
+    background-color: rgba(75, 87, 201, 0.562);
+}
+

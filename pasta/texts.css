@@ -1,0 +1,42 @@
+.primeiro em {
+    text-transform: uppercase;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+.lista {
+    font-family: 'Arial';
+}
+
+.negrito {
+    text-transform: uppercase;
+    color: red;
+}
+
+body {
+    font-family: 'Verdana', Arial, sans-serif;
+}
+
+b {
+    font-size: 120%;
+}
+
+h2 {
+    text-decoration: overline;
+}
+
+p {
+    margin-top: 0px;
+}
+
+section p {
+    text-indent: 30px;
+}
+
+.p-justificado {
+    text-align: justify;
+}
+
+

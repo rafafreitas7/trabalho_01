@@ -1,0 +1,42 @@
+.sec1 {
+    background-color: rgb(156, 135, 212);
+    padding: 10px;
+    width: 50%;
+}
+
+.sec2 {
+    background-color: rgb(60, 78, 160);
+    padding: 10px;
+    width: 50%;
+}
+
+.sec3 {
+    background-color: rgb(19, 18, 92);
+    color: white;
+    padding: 10px;
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+    background-color: gray;   
+}
+
+a:hover {
+    background-color: yellow;
+    font-size: 10pt;
+}
+
+a:active {
+    font-weight: bold;
+}
+
+a:visited {
+    text-decoration: underline;
+    background-color: none;
+}
+
+body {
+    background-image: url('../menina.webp');
+    background-attachment: fixed;
+}
